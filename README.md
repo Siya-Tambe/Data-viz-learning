@@ -15,6 +15,9 @@ Hands-on notes and examples as I build my data analytics skill set.
 | `01_line_plot.ipynb` | Basic line plot | ✅ |
 | `02_Simple_line_graph.ipynb` | simple line graph | ✅ |
 | `03_Simple_2_line_graph.ipynb` | simple 2 line graph | ✅ |
+| `04_Customization_of_plot.ipynb` | customization of plot with example | ✅ |
+| `05_Bar_graph.ipynb` | bar graph | ✅ |
+| `06_Bar_graph_horizontal.ipynb` | horizontal bar graph | ✅ |
 
 ### `numpy/`
 | Notebook | Topic | Status |
